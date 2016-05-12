@@ -1,0 +1,9 @@
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\obj\Debug\StatisticalAlarm.Service.csprojResolveAssemblyReference.cache
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\bin\Debug\StatisticalAlarm.Service.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\bin\Debug\StatisticalAlarm.Service.pdb
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\bin\Debug\SqlServerDataAdapter.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\bin\Debug\StatisticalAlarm.Infrastructure.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\bin\Debug\AutoMapper.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\bin\Debug\StatisticalAlarm.Infrastructure.pdb
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\obj\Debug\StatisticalAlarm.Service.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Service\obj\Debug\StatisticalAlarm.Service.pdb

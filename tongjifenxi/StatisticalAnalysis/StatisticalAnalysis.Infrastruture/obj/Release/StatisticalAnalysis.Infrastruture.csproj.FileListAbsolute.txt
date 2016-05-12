@@ -1,0 +1,13 @@
+E:\NXJCProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\bin\Release\StatisticalAnalysis.Infrastruture.dll
+E:\NXJCProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\bin\Release\StatisticalAnalysis.Infrastruture.pdb
+E:\NXJCProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\bin\Release\SqlServerDataAdapter.dll
+E:\NXJCProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\bin\Release\AutoMapper.dll
+E:\NXJCProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\obj\Release\StatisticalAnalysis.Infrastruture.csprojResolveAssemblyReference.cache
+E:\NXJCProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\obj\Release\StatisticalAnalysis.Infrastruture.dll
+E:\NXJCProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\obj\Release\StatisticalAnalysis.Infrastruture.pdb
+E:\ZHZHProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\bin\Release\StatisticalAnalysis.Infrastruture.dll
+E:\ZHZHProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\bin\Release\StatisticalAnalysis.Infrastruture.pdb
+E:\ZHZHProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\bin\Release\SqlServerDataAdapter.dll
+E:\ZHZHProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\bin\Release\AutoMapper.dll
+E:\ZHZHProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\obj\Release\StatisticalAnalysis.Infrastruture.dll
+E:\ZHZHProject\tongjifenxi\StatisticalAnalysis\StatisticalAnalysis.Infrastruture\obj\Release\StatisticalAnalysis.Infrastruture.pdb

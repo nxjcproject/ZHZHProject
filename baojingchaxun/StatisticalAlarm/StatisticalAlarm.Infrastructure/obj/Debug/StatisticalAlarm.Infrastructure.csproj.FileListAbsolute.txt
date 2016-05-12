@@ -1,0 +1,5 @@
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Infrastructure\bin\Debug\StatisticalAlarm.Infrastructure.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Infrastructure\bin\Debug\StatisticalAlarm.Infrastructure.pdb
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Infrastructure\obj\Debug\StatisticalAlarm.Infrastructure.csprojResolveAssemblyReference.cache
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Infrastructure\obj\Debug\StatisticalAlarm.Infrastructure.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Infrastructure\obj\Debug\StatisticalAlarm.Infrastructure.pdb

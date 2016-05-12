@@ -1,0 +1,13 @@
+E:\ZHZHProject\baobiao\Report\Report.Infrastructure\bin\Release\Report.Infrastructure.dll
+E:\ZHZHProject\baobiao\Report\Report.Infrastructure\bin\Release\Report.Infrastructure.pdb
+E:\ZHZHProject\baobiao\Report\Report.Infrastructure\obj\Release\Report.Infrastructure.dll
+E:\ZHZHProject\baobiao\Report\Report.Infrastructure\obj\Release\Report.Infrastructure.pdb
+F:\vs2012test\ZHZHProject20150804\ZHZHProject\baobiao\Report\Report.Infrastructure\bin\Release\Report.Infrastructure.dll
+F:\vs2012test\ZHZHProject20150804\ZHZHProject\baobiao\Report\Report.Infrastructure\bin\Release\Report.Infrastructure.pdb
+F:\vs2012test\ZHZHProject20150804\ZHZHProject\baobiao\Report\Report.Infrastructure\obj\Release\Report.Infrastructure.dll
+F:\vs2012test\ZHZHProject20150804\ZHZHProject\baobiao\Report\Report.Infrastructure\obj\Release\Report.Infrastructure.pdb
+C:\工作\编程\恒拓软件\株洲\baobiao\Report\Report.Infrastructure\bin\Release\Report.Infrastructure.dll
+C:\工作\编程\恒拓软件\株洲\baobiao\Report\Report.Infrastructure\bin\Release\Report.Infrastructure.pdb
+C:\工作\编程\恒拓软件\株洲\baobiao\Report\Report.Infrastructure\obj\Release\Report.Infrastructure.csprojResolveAssemblyReference.cache
+C:\工作\编程\恒拓软件\株洲\baobiao\Report\Report.Infrastructure\obj\Release\Report.Infrastructure.dll
+C:\工作\编程\恒拓软件\株洲\baobiao\Report\Report.Infrastructure\obj\Release\Report.Infrastructure.pdb

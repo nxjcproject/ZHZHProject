@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticalAlarm.Web", "StatisticalAlarm.Web\StatisticalAlarm.Web.csproj", "{32CD4C71-A0C6-4BBA-9C78-F1D1DAFE126D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticalAlarm.Infrastructure", "StatisticalAlarm.Infrastructure\StatisticalAlarm.Infrastructure.csproj", "{0AFAB9A5-FAD5-475D-89EC-91E45879367F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatisticalAlarm.Service", "StatisticalAlarm.Service\StatisticalAlarm.Service.csproj", "{DEFAF82E-EBBD-4BE0-992B-4B957747429C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32CD4C71-A0C6-4BBA-9C78-F1D1DAFE126D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32CD4C71-A0C6-4BBA-9C78-F1D1DAFE126D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32CD4C71-A0C6-4BBA-9C78-F1D1DAFE126D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32CD4C71-A0C6-4BBA-9C78-F1D1DAFE126D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AFAB9A5-FAD5-475D-89EC-91E45879367F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFAB9A5-FAD5-475D-89EC-91E45879367F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFAB9A5-FAD5-475D-89EC-91E45879367F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFAB9A5-FAD5-475D-89EC-91E45879367F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFAF82E-EBBD-4BE0-992B-4B957747429C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFAF82E-EBBD-4BE0-992B-4B957747429C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFAF82E-EBBD-4BE0-992B-4B957747429C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFAF82E-EBBD-4BE0-992B-4B957747429C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

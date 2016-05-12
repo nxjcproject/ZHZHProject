@@ -1,0 +1,4 @@
+C:\工作\编程\恒拓软件\株洲\DCSDefaultPage\DCSDefaultPage\DCSDefaultPage.Web\bin\DCSDefaultPage.Web.dll
+C:\工作\编程\恒拓软件\株洲\DCSDefaultPage\DCSDefaultPage\DCSDefaultPage.Web\bin\DCSDefaultPage.Web.pdb
+C:\工作\编程\恒拓软件\株洲\DCSDefaultPage\DCSDefaultPage\DCSDefaultPage.Web\obj\Release\DCSDefaultPage.Web.dll
+C:\工作\编程\恒拓软件\株洲\DCSDefaultPage\DCSDefaultPage\DCSDefaultPage.Web\obj\Release\DCSDefaultPage.Web.pdb

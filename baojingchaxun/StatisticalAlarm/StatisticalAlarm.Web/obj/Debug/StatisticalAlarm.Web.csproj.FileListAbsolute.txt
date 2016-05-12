@@ -1,0 +1,17 @@
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\obj\Debug\StatisticalAlarm.Web.csprojResolveAssemblyReference.cache
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\StatisticalAlarm.Web.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\StatisticalAlarm.Web.pdb
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\EasyUIJsonParser.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\StatisticalAlarm.Service.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\WebStyleBaseForEnergy.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\WebUserContorls.Web.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\WebUserControls.Infrastructure.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\WebUserControls.Service.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\StatisticalAlarm.Infrastructure.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\SqlServerDataAdapter.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\InternalMemeryRestore.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\AutoMapper.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\StatisticalAlarm.Service.pdb
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\bin\StatisticalAlarm.Infrastructure.pdb
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\obj\Debug\StatisticalAlarm.Web.dll
+E:\ZHZHProject\baojingchaxun\StatisticalAlarm\StatisticalAlarm.Web\obj\Debug\StatisticalAlarm.Web.pdb
